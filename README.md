@@ -51,7 +51,7 @@ const taha = {
 
 <br/>
 
-### 🎮 EXIT — Survival Escape Game
+### 🎮 EXIT — Survival Escape Game 
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=tahaahm912&repo=EXIT&theme=nord&border_color=22c55e&title_color=22c55e&text_color=c9d1d9&icon_color=22c55e&bg_color=0d1117" />
