@@ -116,7 +116,7 @@ A survival escape game developed with Unity, featuring gameplay mechanics, playe
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tahaahm912&bg_color=0d1117&color=22c55e&line=22c55e&point=ffffff&area=true&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tahaahm912&bg_color=0d1117&color=22c55e&line=22c55e&point=ffffff&area_color=22c55e&area=true&hide_border=true" width="100%"/>
 
 </div>
 
